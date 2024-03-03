@@ -34,7 +34,7 @@ git clone git@github.com:lalitpatidar-001/PDF-Editor-Local.git .
 
 * Move to Root directory
   ```shell
-
+cd PDF-Editor-Local
 ```
 
 * Enoronment setup - create .env file in root of server folder and provide below variable values
@@ -54,6 +54,8 @@ cd server
 npm install
 npm start
 ```
+
+* Open new terminal
 
 * Client Setup
 ```shell
