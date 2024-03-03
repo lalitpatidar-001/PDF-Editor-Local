@@ -29,7 +29,7 @@
 ### Installation Guide
 
 ```shell
-git clone git@github.com:lalitpatidar-001/PDF-Editor.git
+git clone git@github.com:lalitpatidar-001/PDF-Editor-Local.git
 ```
 
 * Enoronment setup - create .env file in root of server folder and provide below variable values
@@ -38,6 +38,10 @@ PORT=5000
 DB_URL =your-db-url
 JWT_KEY = any-key
 ```
+## Note ->
+If you changed PORT or Domain other than 5000 and localhost , do not forget to update it in axios.js in client/src folder.
+
+If you have not changed skip this note
 
 * Server setup
 ```shell
