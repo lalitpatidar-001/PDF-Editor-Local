@@ -67,7 +67,7 @@ Done with setup 😊😊 Enjoy the application
 
 ## Screenshots
 LOGIN
-<img width="960" alt="Screenshot_20240303_114739" src="https://github.com/lalitpatidar-001/PDF-Editor-Local/assets/144806496/7ebe8a82-488d-4a24-bc5a-e72da17b09d9">
+<img width="760" alt="Screenshot_20240303_114739" src="https://github.com/lalitpatidar-001/PDF-Editor-Local/assets/144806496/7ebe8a82-488d-4a24-bc5a-e72da17b09d9">
 <img width="207" alt="Screenshot_20240303_123929" src="https://github.com/lalitpatidar-001/PDF-Editor-Local/assets/144806496/31633ef3-d458-4bd5-a6ce-0c59bbd47ec3">
 
 
