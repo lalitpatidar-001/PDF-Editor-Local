@@ -33,7 +33,7 @@ git clone git@github.com:lalitpatidar-001/PDF-Editor-Local.git .
 ```
 
 * Move to Root directory
-  ```shell
+```shell
 cd PDF-Editor-Local
 ```
 
