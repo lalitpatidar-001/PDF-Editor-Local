@@ -48,7 +48,7 @@ If you changed PORT or Domain other than 5000 and localhost , do not forget to u
 
 If you have not changed skip this note
 
-* Server setup
+* Server setup - make sure you are in root directory
 ```shell
 cd server
 npm install
@@ -57,7 +57,7 @@ npm start
 
 * Open new terminal
 
-* Client Setup
+* Client Setup - make sure you are in root directory
 ```shell
 cd client
 npm install
