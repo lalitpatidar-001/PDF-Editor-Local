@@ -67,7 +67,9 @@ Done with setup 😊😊 Enjoy the application
 
 ## Screenshots
 LOGIN
-<img width="207" alt="Screenshot_20240303_123929" src="https://github.com/lalitpatidar-001/PDF-Editor-Local/assets/144806496/31633ef3-d458-4bd5-a6ce-0c59bbd47ec3">  <img width="208" alt="Screenshot_20240303_123952" src="https://github.com/lalitpatidar-001/PDF-Editor-Local/assets/144806496/76343985-2322-4d18-8147-fb9555dd2aa9">  <img width="210" alt="Screenshot_20240303_124402" src="https://github.com/lalitpatidar-001/PDF-Editor-Local/assets/144806496/dd1b500a-f7a9-4f55-a058-0ee71e1b015f">
+<img width="207" alt="Screenshot_20240303_123929" src="https://github.com/lalitpatidar-001/PDF-Editor-Local/assets/144806496/31633ef3-d458-4bd5-a6ce-0c59bbd47ec3">  <img width="208" alt="Screenshot_20240303_123952" src="https://github.com/lalitpatidar-001/PDF-Editor-Local/assets/144806496/76343985-2322-4d18-8147-fb9555dd2aa9">  <img width="210" alt="Screenshot_20240303_124402" src="https://github.com/lalitpatidar-001/PDF-Editor-Local/assets/144806496/dd1b500a-f7a9-4f55-a058-0ee71e1b015f">  <img width="209" alt="Screenshot_20240303_124437" src="https://github.com/lalitpatidar-001/PDF-Editor-Local/assets/144806496/0d7e3628-91db-47c6-b1e3-077ecb3f207e">  <img width="208" alt="Screenshot_20240303_124501" src="https://github.com/lalitpatidar-001/PDF-Editor-Local/assets/144806496/9efb9df1-40ec-4f64-9918-19d38780cb0a">
+
+
 
 
 
