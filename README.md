@@ -29,7 +29,12 @@
 ### Installation Guide
 
 ```shell
-git clone git@github.com:lalitpatidar-001/PDF-Editor-Local.git
+git clone git@github.com:lalitpatidar-001/PDF-Editor-Local.git .
+```
+
+* Move to Root directory
+  ```shell
+
 ```
 
 * Enoronment setup - create .env file in root of server folder and provide below variable values
